@@ -7,7 +7,7 @@ sites:
     url: https://playreal.com.tw/icont.ico
     icon: https://craft.playreal.city/bonbon.png
   - name: craft.playreal.city
-    url: https://craft.playreal.city/login
+    url: https://craft.playreal.city/bonbon.png
     icon: https://craft.playreal.city/bonbon.png
 
 status-website:
