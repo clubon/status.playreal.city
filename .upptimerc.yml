@@ -9,6 +9,9 @@ sites:
   - name: craft.playreal.city
     url: https://craft.playreal.city/bonbon.png
     icon: https://craft.playreal.city/bonbon.png
+  - name: go.playreal.city
+    url: https://go.playreal.city/bonbon.png
+    icon: https://go.playreal.city/bonbon.png
 
 status-website:
   theme: light
