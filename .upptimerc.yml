@@ -1,31 +1,36 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: clubon # Your GitHub organization or username, where this repository lives
+repo: status.playreal.city # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: playreal.com.tw
+    url: https://playreal.com.tw/icont.ico
+    icon: https://craft.playreal.city/bonbon.png
+  - name: craft.playreal.city
+    url: https://craft.playreal.city/login
+    icon: https://craft.playreal.city/bonbon.png
 
 status-website:
+  theme: light
+
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.playreal.city
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  favicon: https://craft.playreal.city/bonbon.png
+  logoUrl: https://craft.playreal.city/bonbon.png
+  name: Playreal
+  introTitle: "**Playreal** System Status"
+  introMessage: "[Playreal](https://playreal.com.tw) 實境遊戲引擎 | 打造無限想像，創造獨特體驗"
+  scripts:
+    - src: https://www.googletagmanager.com/gtag/js?id=G-MJ935RTNBM
+      async: true
+
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Home
+      href: https://playreal.com.tw
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
