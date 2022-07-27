@@ -3,6 +3,9 @@ owner: clubon # Your GitHub organization or username, where this repository live
 repo: status.playreal.city # The name of this repository
 
 sites:
+  - name: clubon.space
+    url: https://www.clubon.space/robots.txt
+    icon: https://craft.playreal.city/bonbon.png
   - name: playreal.com.tw
     url: https://playreal.com.tw/icont.ico
     icon: https://craft.playreal.city/bonbon.png
