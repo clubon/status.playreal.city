@@ -23,18 +23,16 @@
     "icon": "https://craft.playreal.city/bonbon.png",
     "slug": "craft-playreal-city",
     "status": "up",
-    "uptime": "0.73%",
-    "uptimeDay": "0.73%",
-    "uptimeWeek": "0.73%",
-    "uptimeMonth": "0.73%",
-    "uptimeYear": "0.73%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 204,
     "timeDay": 204,
     "timeWeek": 204,
     "timeMonth": 204,
     "timeYear": 204,
-    "dailyMinutesDown": {
-      "2022-07-27": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
