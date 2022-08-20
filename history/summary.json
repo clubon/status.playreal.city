@@ -4,7 +4,7 @@
     "url": "https://www.clubon.space/robots.txt",
     "icon": "https://craft.playreal.city/bonbon.png",
     "slug": "clubon-space",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 807,
     "timeMonth": 822,
     "timeYear": 822,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-20": 0
+    }
   },
   {
     "name": "playreal.com.tw",
