@@ -4,18 +4,20 @@
     "url": "https://www.clubon.space/robots.txt",
     "icon": "https://craft.playreal.city/bonbon.png",
     "slug": "clubon-space",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 841,
-    "timeDay": 826,
-    "timeWeek": 828,
-    "timeMonth": 857,
+    "timeDay": 815,
+    "timeWeek": 825,
+    "timeMonth": 856,
     "timeYear": 841,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 0
+    }
   },
   {
     "name": "playreal.com.tw",
