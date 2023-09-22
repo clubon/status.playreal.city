@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 845,
-    "timeDay": 816,
-    "timeWeek": 836,
-    "timeMonth": 851,
+    "timeDay": 859,
+    "timeWeek": 851,
+    "timeMonth": 852,
     "timeYear": 846,
     "dailyMinutesDown": {
       "2023-08-21": 34,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 243,
-    "timeDay": 434,
-    "timeWeek": 204,
-    "timeMonth": 230,
+    "timeDay": 262,
+    "timeWeek": 218,
+    "timeMonth": 235,
     "timeYear": 235,
     "dailyMinutesDown": {}
   },
@@ -45,18 +45,16 @@
     "slug": "craft-playreal-city",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 349,
-    "timeDay": 424,
-    "timeWeek": 433,
-    "timeMonth": 347,
-    "timeYear": 359,
-    "dailyMinutesDown": {
-      "2023-09-21": 10
-    }
+    "time": 350,
+    "timeDay": 717,
+    "timeWeek": 500,
+    "timeMonth": 373,
+    "timeYear": 361,
+    "dailyMinutesDown": {}
   },
   {
     "name": "go.playreal.city",
@@ -70,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 411,
-    "timeDay": 1308,
-    "timeWeek": 419,
-    "timeMonth": 382,
+    "timeDay": 255,
+    "timeWeek": 324,
+    "timeMonth": 387,
     "timeYear": 355,
     "dailyMinutesDown": {}
   }
