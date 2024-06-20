@@ -60,19 +60,19 @@
     "url": "https://go.playreal.city/bonbon.png",
     "icon": "https://go.playreal.city/bonbon.png",
     "slug": "go-playreal-city",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 400,
-    "timeDay": 241,
-    "timeWeek": 346,
-    "timeMonth": 370,
-    "timeYear": 415,
+    "time": 401,
+    "timeDay": 447,
+    "timeWeek": 403,
+    "timeMonth": 385,
+    "timeYear": 416,
     "dailyMinutesDown": {
-      "2024-06-20": 0
+      "2024-06-20": 10
     }
   }
 ]
