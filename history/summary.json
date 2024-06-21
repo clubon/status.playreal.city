@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 849,
-    "timeDay": 773,
-    "timeWeek": 888,
-    "timeMonth": 855,
+    "time": 848,
+    "timeDay": 788,
+    "timeWeek": 836,
+    "timeMonth": 851,
     "timeYear": 850,
     "dailyMinutesDown": {
       "2023-08-21": 34
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 88,
-    "timeWeek": 73,
-    "timeMonth": 122,
-    "timeYear": 211,
+    "time": 214,
+    "timeDay": 69,
+    "timeWeek": 72,
+    "timeMonth": 119,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 391,
-    "timeDay": 52,
-    "timeWeek": 320,
+    "time": 390,
+    "timeDay": 210,
+    "timeWeek": 248,
     "timeMonth": 415,
-    "timeYear": 407,
+    "timeYear": 406,
     "dailyMinutesDown": {}
   },
   {
@@ -62,17 +62,15 @@
     "slug": "go-playreal-city",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 401,
-    "timeDay": 447,
-    "timeWeek": 403,
-    "timeMonth": 385,
+    "timeDay": 486,
+    "timeWeek": 366,
+    "timeMonth": 377,
     "timeYear": 416,
-    "dailyMinutesDown": {
-      "2024-06-20": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
