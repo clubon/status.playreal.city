@@ -26,7 +26,7 @@
     "url": "https://playreal.com.tw/icont.ico",
     "icon": "https://craft.playreal.city/bonbon.png",
     "slug": "playreal-com-tw",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 205,
     "timeMonth": 210,
     "timeYear": 210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-08": 0
+    }
   },
   {
     "name": "craft.playreal.city",
