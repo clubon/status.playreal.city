@@ -34,7 +34,7 @@
     "timeMonth": 407,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2025-09-01": 644,
+      "2025-09-01": 654,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
@@ -388,19 +388,19 @@
     "url": "https://go.playreal.city/bonbon.png",
     "icon": "https://go.playreal.city/bonbon.png",
     "slug": "go-playreal-city",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 378,
-    "timeDay": 190,
-    "timeWeek": 361,
-    "timeMonth": 527,
-    "timeYear": 395,
+    "timeDay": 150,
+    "timeWeek": 329,
+    "timeMonth": 513,
+    "timeYear": 394,
     "dailyMinutesDown": {
-      "2025-09-01": 0
+      "2025-09-01": 10
     }
   }
 ]
