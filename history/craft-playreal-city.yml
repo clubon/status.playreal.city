@@ -1,7 +1,7 @@
 url: https://craft.playreal.city/bonbon.png
-status: up
-code: 200
-responseTime: 878
-lastUpdated: 2025-11-17T23:23:07.266Z
+status: down
+code: 500
+responseTime: 330
+lastUpdated: 2025-11-18T11:48:19.429Z
 startTime: 2022-07-27T08:22:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
