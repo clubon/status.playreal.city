@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 824,
-    "timeDay": 369,
-    "timeWeek": 563,
-    "timeMonth": 692,
-    "timeYear": 826,
+    "time": 823,
+    "timeDay": 417,
+    "timeWeek": 524,
+    "timeMonth": 681,
+    "timeYear": 825,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://craft.playreal.city/bonbon.png",
     "slug": "playreal-com-tw",
     "status": "down",
-    "uptime": "63.96%",
+    "uptime": "63.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 446,
-    "timeDay": 332,
-    "timeWeek": 468,
-    "timeMonth": 346,
-    "timeYear": 421,
+    "timeDay": 355,
+    "timeWeek": 441,
+    "timeMonth": 349,
+    "timeYear": 420,
     "dailyMinutesDown": {
-      "2026-01-04": 114,
+      "2026-01-05": 114,
+      "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
@@ -397,8 +398,7 @@
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
-      "2025-01-06": 1440,
-      "2025-01-05": 1440
+      "2025-01-06": 1440
     }
   },
   {
@@ -413,10 +413,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 396,
-    "timeDay": 57,
-    "timeWeek": 240,
-    "timeMonth": 298,
-    "timeYear": 412,
+    "timeDay": 176,
+    "timeWeek": 230,
+    "timeMonth": 291,
+    "timeYear": 411,
     "dailyMinutesDown": {
       "2025-11-18": 142
     }
@@ -433,9 +433,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 379,
-    "timeDay": 210,
-    "timeWeek": 224,
-    "timeMonth": 283,
+    "timeDay": 177,
+    "timeWeek": 232,
+    "timeMonth": 282,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2025-11-18": 142
