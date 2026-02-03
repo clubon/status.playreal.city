@@ -34,7 +34,7 @@
     "timeMonth": 369,
     "timeYear": 392,
     "dailyMinutesDown": {
-      "2026-02-03": 905,
+      "2026-02-03": 960,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
@@ -426,19 +426,19 @@
     "url": "https://go.playreal.city/bonbon.png",
     "icon": "https://go.playreal.city/bonbon.png",
     "slug": "go-playreal-city",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "96.15%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.96%",
     "time": 377,
-    "timeDay": 160,
-    "timeWeek": 495,
-    "timeMonth": 319,
+    "timeDay": 261,
+    "timeWeek": 479,
+    "timeMonth": 321,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2026-02-03": 0,
+      "2026-02-03": 55,
       "2025-11-18": 142
     }
   }
