@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 809,
-    "timeDay": 799,
-    "timeWeek": 746,
-    "timeMonth": 660,
-    "timeYear": 805,
+    "time": 808,
+    "timeDay": 699,
+    "timeWeek": 704,
+    "timeMonth": 656,
+    "timeYear": 804,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://craft.playreal.city/bonbon.png",
     "slug": "playreal-com-tw",
     "status": "down",
-    "uptime": "62.13%",
+    "uptime": "62.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 460,
-    "timeDay": 331,
-    "timeWeek": 438,
-    "timeMonth": 398,
-    "timeYear": 395,
+    "timeDay": 514,
+    "timeWeek": 417,
+    "timeMonth": 406,
+    "timeYear": 396,
     "dailyMinutesDown": {
-      "2026-02-10": 148,
+      "2026-02-11": 145,
+      "2026-02-10": 1440,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
@@ -397,8 +398,7 @@
       "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
-      "2025-02-12": 1440,
-      "2025-02-11": 1440
+      "2025-02-12": 1440
     }
   },
   {
@@ -413,10 +413,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 394,
-    "timeDay": 218,
-    "timeWeek": 358,
-    "timeMonth": 324,
-    "timeYear": 408,
+    "timeDay": 577,
+    "timeWeek": 384,
+    "timeMonth": 340,
+    "timeYear": 409,
     "dailyMinutesDown": {
       "2025-11-18": 142
     }
@@ -429,14 +429,14 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.45%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.96%",
-    "time": 378,
-    "timeDay": 562,
-    "timeWeek": 358,
-    "timeMonth": 335,
-    "timeYear": 379,
+    "time": 377,
+    "timeDay": 252,
+    "timeWeek": 367,
+    "timeMonth": 328,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2026-02-03": 55,
       "2025-11-18": 142
