@@ -23,7 +23,7 @@
     "icon": "https://craft.playreal.city/bonbon.png",
     "slug": "playreal-com-tw",
     "status": "down",
-    "uptime": "59.46%",
+    "uptime": "59.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,7 @@
     "timeMonth": 370,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2026-04-09": 143,
+      "2026-04-09": 951,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
@@ -406,9 +406,9 @@
     "url": "https://craft.playreal.city/bonbon.png",
     "icon": "https://craft.playreal.city/bonbon.png",
     "slug": "craft-playreal-city",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -418,6 +418,7 @@
     "timeMonth": 239,
     "timeYear": 390,
     "dailyMinutesDown": {
+      "2026-04-09": 0,
       "2025-11-18": 142
     }
   },
